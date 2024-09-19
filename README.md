@@ -1,5 +1,4 @@
 Hello, I'm Erick! 👋
-
 •	Welcome to my GitHub profile.
 •	I’m a Data Analyst with a passion for discovering the stories hidden in data. My journey started with a love for tackling complex Math problems, and a curiosity about how data influences the world. Over time, this has evolved into an exciting career where I turn raw data into actionable insights that power smart decisions.An executive leader with deep focus in marketing, research, administration and leadership roles.
 
@@ -7,7 +6,6 @@ Hello, I'm Erick! 👋
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Technical Skills
-
 •	Languages: Structured Query Language(SQL), Python, R
 •	Tools: Excel, Power BI, MySQL, Microsoft SQL Server, Jupyter Notebook, R Studio, Google Cloud Platform(GCP), Microsoft Office
 •	Data Visualization: Tableau, Power BI, Looker, Matplotlib, Seaborn, Excel Charts, Dashboards
